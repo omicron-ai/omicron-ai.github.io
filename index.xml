@@ -33,7 +33,7 @@ The project is a collection of sub-projects guided by a philosophy for how techn
     <item>
       <title>Omnigraph</title>
       <link>https://omicron-ai.org/info/omnigraph/</link>
-      <pubDate>Wed, 27 May 2020 15:14:39 +1000</pubDate>
+      <pubDate>Wed, 27 May 2020 15:56:30 +1000</pubDate>
       
       <guid>https://omicron-ai.org/info/omnigraph/</guid>
       <description>Omnigraph is an agent memory graph for memory embedding in a muti-dimensional matrix that can build arbitrary semantic relationships across nodes.
@@ -43,7 +43,7 @@ More information coming soon.</description>
     <item>
       <title>Delta Protocol</title>
       <link>https://omicron-ai.org/info/delta/</link>
-      <pubDate>Wed, 27 May 2020 15:15:39 +1000</pubDate>
+      <pubDate>Wed, 27 May 2020 15:15:56 +1000</pubDate>
       
       <guid>https://omicron-ai.org/info/delta/</guid>
       <description>The Delta Protocol is a flexible protocol for the sharing and access of data among networked services that allows agents restrict the amount, kind, and depth of the data that is being accessed by each service.</description>
