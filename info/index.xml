@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Omicron on Omicron AI</title>
-    <link>https://omicron-ai.org/</link>
-    <description>Recent content in Omicron on Omicron AI</description>
+    <title>Overview on Omicron AI</title>
+    <link>https://omicron-ai.org/info/</link>
+    <description>Recent content in Overview on Omicron AI</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 24 May 2020 15:14:39 +1000</lastBuildDate>
     
-	<atom:link href="https://omicron-ai.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://omicron-ai.org/info/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
